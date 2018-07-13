@@ -1,0 +1,7 @@
+/*Item do Cardapio*/
+.cardapio-item{border-bottom:1px solid rgb(168, 39, 39); margin: 20px; padding-bottom: 20px;}
+.card-item-header{display: flex; justify-content: space-between;align-items:flex-end;padding: 5px 0;margin-bottom: 10px;}
+.card-item-nome{color: rgb(168, 39, 39);border-left:4px solid rgb(168, 39, 39);padding-left: 10px;}
+.card-item-preco{color:rgb(15, 124, 30);border:1px solid rgb(15, 124, 30);font-weight: 100;padding: 5px;box-shadow: 0 1px 2px rgb(15, 124, 30, 0.5) }
+.card-item-desc{font-size: 1.5em;font-weight: 100;}
+

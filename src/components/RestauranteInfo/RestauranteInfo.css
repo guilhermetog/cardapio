@@ -1,0 +1,11 @@
+/*Restaurante Info*/
+.rest-info-header{display: flex; justify-content: space-between;align-items:center;padding: 5px 20px;margin-bottom: 10px;}
+.rest-info-header h2{color: rgb(168, 39, 39);font-weight: 100;}
+
+.rest-info-body{display: flex;flex-wrap: wrap;width: 420px;padding: 0 10px;font-size: 1.2rem;color: rgb(82, 80, 80);}
+.rest-info-body p{width: 200px;padding: 10px;}
+.rest-info-body i{margin-right: 10px;}
+.rest-info-body .pagamento, .rest-info-body .local{width: 400px;}
+
+.rest-info-body .horario.aberto{color:rgb(15, 124, 30);}
+.rest-info-body .horario.fechado{color:rgb(133, 42, 42)}

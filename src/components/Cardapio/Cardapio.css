@@ -1,0 +1,5 @@
+/*Cardapio*/
+.cardapio-header{display: flex; justify-content: flex-end;border-bottom: 1px solid rgb(133, 42, 42); color:rgb(155, 60, 60);}
+.cardapio-header h2{border-bottom:3px solid rgb(133, 42, 42);margin: 0 ;padding: 10px 20px;}
+.cardapio .mensagem{font-size: 2em;color: rgb(55, 85, 67);padding: 20px;}
+
