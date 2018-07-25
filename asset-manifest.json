@@ -1,7 +1,7 @@
 {
-  "main.css": "static/css/main.e732f4e5.css",
-  "main.css.map": "static/css/main.e732f4e5.css.map",
-  "main.js": "static/js/main.612ed380.js",
-  "main.js.map": "static/js/main.612ed380.js.map",
-  "static\\media\\bg.jpg": "static/media/bg.f64ed6e8.jpg"
+  "main.css": "/cardapio/static/css/main.e732f4e5.css",
+  "main.css.map": "/cardapio/static/css/main.e732f4e5.css.map",
+  "main.js": "/cardapio/static/js/main.612ed380.js",
+  "main.js.map": "/cardapio/static/js/main.612ed380.js.map",
+  "static\\media\\bg.jpg": "/cardapio/static/media/bg.f64ed6e8.jpg"
 }
